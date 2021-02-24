@@ -9,11 +9,11 @@ var raindrop = [];
 var rand, thunder, thunderthing, thunder1, thunder2, thunder3, thunder4;
 
 function preload(){
-manImage = loadAnimation("Man/walking_1.png","Man/walking_2.png","Man/walking_3.png","Man/walking_4.png","Man/walking_5.png","Man/walking_6.png","Man/walking_7.png","Man/walking_8.png",)
-thunder1 = loadImage("Thunder/1.png");
-thunder2 = loadImage("Thunder/2.png");
-thunder3 = loadImage("Thunder/3.png");
-thunder4 = loadImage("Thunder/4.png");
+manImage = loadAnimation("walking_1.png","walking_2.png","walking_3.png","walking_4.png","walking_5.png","walking_6.png","walking_7.png","walking_8.png",)
+thunder1 = loadImage("1.png");
+thunder2 = loadImage("2.png");
+thunder3 = loadImage("3.png");
+thunder4 = loadImage("4.png");
 
 }
 
